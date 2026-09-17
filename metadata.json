@@ -1,6 +1,11 @@
 {
-  "name": "DJ Copilot (AI)",
-  "description": "Your personal AI DJ and party co-host with real-time AI setlist curation, voice commentary, dynamic audio visualizers, and seamless transitions.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "Remote Record Sync",
+  "description": "A remote recording interface for DAWs with video chat and low-latency audio routing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
