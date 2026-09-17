@@ -1,0 +1,6 @@
+{
+  "name": "DJ Copilot (AI)",
+  "description": "Your personal AI DJ and party co-host with real-time AI setlist curation, voice commentary, dynamic audio visualizers, and seamless transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
